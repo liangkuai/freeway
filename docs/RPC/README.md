@@ -2,6 +2,10 @@
 
 > Remote Procedure Call，远程过程调用。目的是为了让调用远程方法和调用本地方法一样简单。
 
+> 参考
+> - [如何给老婆解释什么是RPC - 柳树的文章 - 知乎](https://zhuanlan.zhihu.com/p/36427583)
+> - [谁能用通俗的语言解释一下什么是 RPC 框架？ - 洪春涛的回答 - 知乎](https://www.zhihu.com/question/25536695/answer/221638079)
+
 ### 原理
 
 ![RPC](/assets/images/RPC/RPC.jpg)
@@ -18,3 +22,7 @@
 
 
 ### 为什么要用 RPC，不用 HTTP？
+
+> 参考
+> - [微服务调用为啥用RPC框架，http不更简单吗？ - 支付技术那些事的文章 - 知乎](https://zhuanlan.zhihu.com/p/61364466)
+> - [既然有 HTTP 请求，为什么还要用 RPC 调用？ - 易哥的回答 - 知乎](https://www.zhihu.com/question/41609070/answer/1030913797)
